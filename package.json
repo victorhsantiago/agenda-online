@@ -1,0 +1,25 @@
+{
+    "name": "agenda",
+    "version": "1.0.0",
+    "description": "desenvolver uma agenda de contatos",
+    "main": "agenda.js",
+    "scripts": {
+        "front": "lite-server",
+        "back": "json-server --watch db.json --port 8000"
+    },
+    "keywords": [
+        "js",
+        "html",
+        "css",
+        "webapp",
+        "javascript"
+    ],
+    "author": "Victor Santiago",
+    "license": "MIT",
+    "dependencies": {
+        "json-server": "^0.12.1"
+    },
+    "devDependencies": {
+        "lite-server": "^2.3.0"
+    }
+}

@@ -1,0 +1,7 @@
+npm run "front"
+npm run "back"
+
+https://jsonlint.com/ - validador de código JSON
+
+Gulp - compressor de códigos e automatizador 
+npm install gulp gulp-cli gulp-htmlmin gulp-uglifycss gulp-babel babel-core babel-preset-env gulp-uglify --save
